@@ -64,8 +64,7 @@ header > p {
 nav {
     background-color: var(--cor5);
     padding: 10px;
-    min-width: 300px;
-    max-width: 1400px;
+
     box-shadow: rgba(0, 0, 0, 0.363);
 }
 nav > a {
